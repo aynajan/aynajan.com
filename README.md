@@ -1,3 +1,2 @@
 # aynajan.com
-Technologies 
-sigle page website resume 
+single  page website resume 
