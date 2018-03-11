@@ -1,2 +1,6 @@
 # aynajan.com
-single  page website resume 
+Single page website resume 
+
+Technologies:
+* HTML5
+* CSS
