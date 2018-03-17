@@ -1,14 +1,18 @@
-a{backgroud-color; pink;
- color pink
- font-family: Arial, Helvetica, sans-serif:
-
+a {
+backgroud-color; pink;
+color pink
+font-family: Arial, Helvetica, sans-serif;
 }
 
 h3 {
 font-style: bold;
 color: navy;
 }
- .resume-italic{ font-style: italic;
- }
- .resume-bold{ font-style: bold;
- }
+
+.resume-italic {
+font-style: italic;
+}
+
+.resume-bold {
+font-style: bold;
+}
