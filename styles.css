@@ -1,6 +1,14 @@
-body {background-color: powderblue;}
 a{backgroud-color; pink;
  color pink
  font-family: Arial, Helvetica, sans-serif:
 
 }
+
+h3 {
+style: bold;
+color: navy;
+}
+ .resume-italic{ style: italic;
+ }
+ .resume-bold{ style: bold;
+ }
