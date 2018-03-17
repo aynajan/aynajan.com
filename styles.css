@@ -5,10 +5,10 @@ a{backgroud-color; pink;
 }
 
 h3 {
-style: bold;
+font-style: bold;
 color: navy;
 }
- .resume-italic{ style: italic;
+ .resume-italic{ font-style: italic;
  }
- .resume-bold{ style: bold;
+ .resume-bold{ font-style: bold;
  }
