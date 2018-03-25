@@ -1,12 +1,25 @@
 a {
-backgroud-color; pink;
-color pink
+backgroud-color: black;
+color: pink;
 font-family: Arial, Helvetica, sans-serif;
 }
 
 h3 {
 font-style: bold;
 color: navy;
+float: left;
+width: 15%;
+height: 115px;
+}
+
+h2  {
+position: relative;
+top: 50%;
+left: 26%;
+}
+
+.section {
+height: 25%;
 }
 
 .resume-italic {
@@ -16,7 +29,17 @@ font-style: italic;
 .resume-bold {
 font-style: bold;
 }
-.column {
-    float-left:
 
+.left{
+float: left;
+height: 100%;
+width: 45%;
+background-image: url("assets/myssyk.JPG");
+ background-size: 400px;
+ background-repeat: no-repeat;
+}
+
+.img-container {
+    float: left;
+    height: 300px;
 }
